@@ -188,6 +188,11 @@ h2{
   font-size: 13px;
   border-radius: 2px;
 }
+h3{
+  font-size:32px;
+  color: #555;
+}
+  
 footer {
   background-color: #222;
   color: white;
@@ -202,6 +207,7 @@ footer {
 
   
   
+
 
 
 
