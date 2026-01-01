@@ -191,6 +191,8 @@ h2{
 h3{
   font-size:32px;
   color: #555;
+  text-align:center;
+  display:flex;
 }
   
 footer {
@@ -207,6 +209,7 @@ footer {
 
   
   
+
 
 
 
